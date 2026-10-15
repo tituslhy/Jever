@@ -1,0 +1,16 @@
+[project]
+name = "jever"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "deepagents>=0.7.25",
+    "ipykernel>=7.4.0",
+    "langchain>=1.4.6",
+    "langchain-openai>=1.7.2",
+    "langchain-tavily>=0.2.18",
+    "langchain-typesafe>=0.0.1a3",
+    "langgraph-checkpoint-sqlite>=3.1.2",
+    "python-dotenv>=1.2.4",
+]
