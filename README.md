@@ -14,6 +14,8 @@
   <img alt="License" src="https://img.shields.io/badge/license-MIT-green">
 </p>
 
+This repository is a companion resource to the Medium article [Your AI Agent Needs a Bouncer](https://medium.com/@tituslhy/your-ai-agent-needs-a-bouncer-f115d5ddac55)
+
 ---
 
 ## What is this?
